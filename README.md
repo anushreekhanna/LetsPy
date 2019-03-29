@@ -42,3 +42,9 @@ This repo contains codes/slides for LetsPy talk.
   * This tutorial will help folks, to understand basics of ML - i.e. how to do Exploratory Data Analysis with the help of matplotlib and Principal Component Analysis (PCA).
   * Preprocess the data with normalization + split the data into training and test sets.
   * If time permits, will do KMeans on top of this.
+
+Sources:-
+* [Introduction to Data Science](https://www.edureka.co/blog/what-is-data-science/)
+* [Introduction to MatplotLib](http://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot)
+* [Introduction to Scikit-Learn](https://www.analyticsvidhya.com/blog/2015/01/scikit-learn-python-machine-learning-tool/)
+* [Scikit-Learn Example](https://www.datacamp.com/community/tutorials/machine-learning-python)
