@@ -16,7 +16,7 @@ This repo contains codes/slides for LetsPy talk.
   * Installation ``!pip install pandas``
   * Covering the basics of library's main data structures - dataframes and series.
   * Working with DataFrame - dives a bit deeper into the functionality of DataFrames which shows how to inspect, select, filter, merge, combine, and group your data.
-  * Using ``pandas`` with Titanic dataset - Kaggle's beginner friendly problem statement so that one should apply the learnings of the first two parts in order to do basic analysis.
+  * Using ``pandas`` with [Titanic dataset](https://www.kaggle.com/hesh97/titanicdataset-traincsv) - Kaggle's beginner friendly problem statement so that one should apply the learnings of the first two parts in order to do basic analysis.
 * Introduction to Numpy
   * Installation ``!pip install numpy``
   * Numpy 1D Array
