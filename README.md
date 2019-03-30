@@ -48,3 +48,4 @@ Sources:-
 * [Introduction to MatplotLib](http://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot)
 * [Introduction to Scikit-Learn](https://www.analyticsvidhya.com/blog/2015/01/scikit-learn-python-machine-learning-tool/)
 * [Scikit-Learn Example](https://www.datacamp.com/community/tutorials/machine-learning-python)
+* [Sklearn Example](https://www.dataquest.io/blog/sci-kit-learn-tutorial/)
